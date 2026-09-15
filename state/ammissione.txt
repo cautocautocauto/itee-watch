@@ -1,0 +1,206 @@
+Questa pagina fornisce informazioni ai candidati ITEE su eventi di orientamento alla ricerca in vista
+del processo di ammissione al 42° ciclo
+, sul processo di selezione, sulla tipologia e sul numero di posizioni disponibili, e sulle posizioni tematiche che si rendono disponibili, eventualmente anche dopo il bando ufficiale pubblicato sul sito web dell'Università, prima del completamento del processo di selezione dei candidati.
+Durante il concorso di ammissione, notizie per i candidati saranno pubblicate in questa pagina (elenco degli ammessi alla prova orale, etc.)
+Il Corso di Dottorato ITEE - XLII ciclo - è accreditato dal Ministero dell'Università e della Ricerca (MUR) su parere positivo dell'Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca (ANVUR).
+A
+mmissione al
+C
+orso di
+D
+ottorato di
+R
+icerca
+in
+I
+nformation
+T
+echnology and
+E
+lectrical
+E
+ngineering (
+IT
+EE
+) -
+42
+° Ciclo (2026)
+Bando di concorso 2026
+L’Università degli Studi di Napoli Federico II ha emanato il bando di concorso per l’ammissione ai corsi di dottorato di ricerca del XLII ciclo.
+Link al bando:
+https://www.unina.it/it/didattica/post-laurea/dottorati/42esimo-ciclo
+SCADENZA PER LA PRESENTAZIONE DELLE DOMANDE SULLA PIATTAFORMA INFORMATICA PICA:
+ORE 12:00 DEL 21 LUGLIO 2026
+La domanda va presentata
+ESCLUSIVAMENTE
+tramite procedura telematica
+Link alla procedura informatica:
+https://pica.cineca.it
+Possono presentare domanda anche i laureandi purché conseguano il titolo entro il 31/10/2026.
+Commissione concorso di ammissione:
+Prof. Alessandro Cilardo
+Prof. Claudio Curcio
+Prof. Luigi Glielmo
+Prof. Luca Maresca
+Prof. Giancarlo Sperlì
+-----------------------------
+[IT] Avviso relativo alle modalità di svolgimento della
+prova orale
+[EN] Notice regarding the
+oral exam
+procedures
+[IT]
+Durante la riunione del 31 agosto 2026, la Commissione giudicatrice ha deliberato di ammettere la modalità di partecipazione remota alla prova orale per i candidati che ne facciano richiesta all'indirizzo email
+Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.
+(cc acilardo @ unina.it) entro il 7 settembre 2026 incluso, soltanto per
+comprovate regioni
+da dichiarare nella richiesta.
+Il link per il collegamento verrà fornito al richiedente tramite email.
+[EN]
+At its meeting on August 31, 2026, the Examination Board decided to permit remote participation in the oral exam for candidates who submit a request by email to
+Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.
+(cc acilardo @ unina.it) by September 7, 2026. This option is only available for candidates with
+documented circumstances
+which must be explained in the request.
+The link for the connection will be provided to the applicant via email.
+[IT] 4 sett. 2026 - Graduatoria ammessi all'esame orale –
+Valutazione Titoli
+[EN] Sept. 4, 2026 - List of candidates admitted to the oral examination –
+Assessment of Qualifications
+----------------------------------------------------------------------------------------
+Categorie e numero di posizioni disponibili / borse di studio per il 42° ciclo del Dottorato ITEE
+L'elenco completo delle posizioni di dottorato disponibili include:
+A
+) posizioni direttamente supportate dall'Università Federico II ("
+posizioni istituzionali
+"), di cui:
+A1
+) posizioni
+con
+borsa di dottorato ("
+borse di studio generiche
+");
+A2
+) posizioni
+senza
+borsa di dottorato.
+I temi di ricerca delle posizioni istituzionali (con o senza borsa di studio) saranno defi
+niti dal Collegio dei Docenti.
+B
+) posizioni
+con
+borse di dottorato finanziate da aziende o istituti di ricerca esterni all'Ateneo, o da strutture di Ateneo su progetti specifici ("
+posizioni tematiche
+")
+Per le posizioni tematiche, le borse di studio sono legate a specifici temi di ricerca ("
+borse di studio tematiche
+").
+Società esterne private o pubbliche o istituti di ricerca possono finanziare ulteriori borse di studio tematiche, mediante sottoscrizione di apposite convenzioni con l'Università Federico II.
+Per il 42° ciclo ITEE le borse disponibili sono indicate nella tabella in calce a questa pagina.
+La data di inizio delle attività del 42° ciclo è il 1° novembre 2026
+Numero complessivo di posti disponibili: 24
+(di cui
+n. 18 con borsa
+e
+n. 6 senza borsa
+)
+A
+)
+Posizioni istituzionali
+A1) Posizioni con borse di studio generiche:
+- 7 posizioni;
+A2
+)
+Posizioni senza borsa di studio
+:
+-
+6 posizioni;
+B
+)
+Posizioni con borse di studio tematiche
+(vedi elenco seguente)
+:
+-
+1 posizione finanziata dal dipartimento DIETI - Progetto con Rete Ferroviaria Italiana S.p.A.
+-
+3 posizioni finanziate dal dipartimento DIETI - Progetto ROMOTIVE
+- 1 posizione finanziata dal dipartimento DIETI - Progetto
+Riassegnazione Economie 2024 - CDA del 29.05.24
+-
+1 posizione finanziata dal dipartimento DIETI - Progetto Cosmi Algoritmici
+- 4 posizioni finanziate da Leonardo S.p.A.
+- 1 posizione finanziata da INGV
+Eventuali aggiornamenti sul numero di posti e borse
+resi disponibili dopo la pubblicazione del bando saranno tempestivamente pubblicati
+su questa pagina
+.
+Elenco delle borse di studio
+:
+Tematica
+Borsa di studio o
+Azienda / Ente
+(co-)finanziatore
+Supervisore
+Borse
+disponibili
+1-7
+Da definire da parte del
+Collegio
+ITEE
+Ateneo
+da definire
+7
+8
+Analisi, specifica ed implementazione di software per architetture safety critical
+Borsa finanziata da DIETI - Progetto con Rete Ferroviaria Italiana S.p.A.
+Prof. Barbareschi
+1
+9-11
+Robotic manipulation of deformable objects through integrated visuo-tactile exploration
+Borsa finanziata da DIETI - Progetto ROMOTIVE
+Prof. Selvaggio
+3
+12
+Controllo di robot quadrupedi con tecniche ibride model-based e model-free
+Borsa finanziata da DIETI - Riassegnazione Economie 2024 - CDA del 29.05.24
+prof. Bruno Siciliano
+1
+13
+(da definire)
+Borsa finanziata da DIETI - Progetto Cosmi Algoritmici
+prof. Murano
+1
+14-16
+(da definire)
+Borse finanziate da Leonardo S.p.A.
+prof. Pescapè
+3
+17
+From Macroscopic to microscopic swarming and beyond
+Borsa finanziata da Leonardo S.p.A.
+prof. Di Bernardo
+1
+18
+Machine learning and statistical methods applied to the study of volcanic processes using multi-sensor and multi-band satellite data
+Borsa finanziata da INGV
+prof. Ruello
+1
+____________________________________________________________________________
+*
+****
+NEWS
+****
+*
+PhD @ DIETI
+INCONTRO DI ORIENTAMENTO ALLA RICERCA PER GLI STUDENTI DELL’ULTIMO ANNO DEI CORSI DI LAUREA MAGISTRALE
+per l’ammissione al Dottorato di Ricerca
+GIOVEDÌ 7
+LUGLIO 2026 – Ore 15:00
+Incontro in modalità ibrida, in AULA Softel – EDIFICIO 3, primo piano - Via Claudio 21, NAPOLI, e online
+Ulteriori
+dettagli alla pagina di Orientamento ITEE
+--- LINK ---
+/images/42CONCORSO/ITEE42_titoli_firmato.pdf
+/index.php/it/servizi/orientamento
+https://pica.cineca.it/unina/tipologia/cdr
+https://www.unina.it/it/didattica/post-laurea/dottorati/42esimo-ciclo

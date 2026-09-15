@@ -1,0 +1,32 @@
+name: ITEE page watch
+# Ogni run controlla le pagine ogni 60 s per ~5h45m.
+# Il cron ne accoda uno nuovo ogni 30 min: parte appena finisce il precedente,
+# così la copertura è continua (l'attesa in coda non consuma minuti).
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: watch
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: |
+          git config user.name "itee-watch"
+          git config user.email "itee-watch@users.noreply.github.com"
+      - run: python watch.py --loop
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          INTERVAL: "60"
+          MAX_MINUTES: "345"
+          GIT_PUSH: "1"
